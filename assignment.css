@@ -1,0 +1,979 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.design {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+.design .design1 {
+    box-sizing: border-box;
+    padding: 5rem 14rem 12rem 14rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  
+}
+.design .design1 .design2 {
+  width:100% ;
+  height: 800px;
+  border-radius: 1px
+  flex-shrink: 0;
+  background-image: url(Banner\ Image.png);
+  background-repeat: no-repeat;
+}
+.design .design1 .design2 .design3 {
+  box-sizing: border-box;
+  padding: 7.1rem 38.5rem 17.7rem 38.5rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #070211 -0%, rgba(7, 2, 17, 0) 100%);
+  border-radius: 1.6rem;
+}
+.design .design1 .design2 .design3 .frame-2-nLU {
+  margin: 0rem 25.4rem 0.6rem 19.6rem;
+  width: calc(100% - 45rem);
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.design .design1 .design2 .design3 .group-99-t8c {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .design2 .design3 .group-99-t8c .happy-new-year-SR2 {
+  margin: 0rem 0.1rem 1.5rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .design2 .design3 .group-99-t8c .new-year-party-celebration-fqW {
+  max-width: 55rem;
+  text-align: center;
+  font-size: 7.2rem;
+  font-weight: 900;
+  line-height: 1.3194444444;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .design2 .design2-bg {
+  width: 132rem;
+  height: 60rem;
+  position: relative;
+  background-image: url('');
+}
+.design .design1 .group-50-1H6 {
+  margin: 0rem 25.81rem 12rem 25.9rem;
+  width: calc(100% - 51.71rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .off-XFS {
+  margin: 0rem 0.19rem 4.8rem 0rem;
+  text-align: center;
+  font-size: 8.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .group-45-pVS {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .group-45-pVS .group-10-AZJ {
+  margin: 0rem 19.69rem 4.7rem 19.6rem;
+  width: calc(100% - 39.29rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .group-45-pVS .group-10-AZJ .our-holiday-deals-are-better-hJL {
+  margin: 0rem 0rem 1.5rem 0.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .group-45-pVS .group-10-AZJ .all-categories-nag {
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #070211;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-50-1H6 .group-45-pVS .vector-K4p {
+  width: 80.29rem;
+  height: 50rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design .design1 .group-98-ect {
+  margin-bottom: 12rem;
+  box-sizing: border-box;
+  padding: 6.811rem 13.8rem 6.723rem 12.6rem;
+  width: 100%;
+  height: 60rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('Vectorrr.png');
+  flex-shrink: 0;
+}
+.design .design1 .group-98-ect .auto-group-x2ma-YTN {
+  margin: 5.789rem 4.817rem 7.377rem 0rem;
+  width: 68.8rem;
+  height: calc(100% - 13.1662rem);
+  flex-shrink: 0;
+}
+.design .design1 .group-98-ect .auto-group-x2ma-YTN .welcome-to-midnight-party-f2C {
+  margin-bottom: 2.4rem;
+  max-width: 59.1rem;
+  font-size: 6.4rem;
+  font-weight: 900;
+  line-height: 1.375;
+  letter-spacing: 0.704rem;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.design .design1 .group-98-ect .auto-group-x2ma-YTN .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-molestie-malesuada-ipsum-sed-sodales-risus-ut-pellentesque-vel-euismod-Yrg {
+  margin-bottom: 4.8rem;
+  max-width: 68.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Inter, 'Source Sans Pro';
+}
+.design .design1 .group-98-ect .auto-group-x2ma-YTN .join-now-aoN {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-98-ect .group-70-uKr {
+  width: 31.983rem;
+  height: 46.4662rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design .design1 .group-93-DLY {
+  margin-bottom: 12rem;
+  box-sizing: border-box;
+  padding: 10rem 38.6rem 11rem 38.5rem;
+  width: 100%;
+  height: 48.2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.design .design1 .group-93-DLY .group-92-Lvx {
+  box-sizing: border-box;
+  padding: 0 0.15rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.8rem;
+}
+.design .design1 .group-93-DLY .group-92-Lvx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx {
+  margin-bottom: 4.8rem;
+  max-width: 54.6rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: #070211;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .group-93-DLY .group-92-Lvx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.design .design1 .group-93-DLY .group-92-Lvx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx-sub-2 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.design .design1 .group-93-DLY .group-92-Lvx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx .place-new-park-hotel-date-31-december-night-2023-time-evening-730-pm-to-1230-am-VYx-sub-4 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.75;
+  text-transform: capitalize;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.design .design1 .group-93-DLY .group-92-Lvx .frame-1-P3z {
+  margin: 0 18.95rem;
+  width: calc(100% - 37.9rem);
+  height: 5.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff0000;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA {
+  margin-bottom: 11.8rem;
+  width: 100%;
+  height: 46.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J {
+  width: 132rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-46-GX6 {
+  margin: 10.4rem 7.3rem 10.4rem 0rem;
+  height: calc(100% - 20.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-46-GX6 .group-17-oX2 {
+  margin-bottom: 2.1rem;
+  width: 32.8rem;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-46-GX6 .group-17-oX2 .new-best-offer-Xxp {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-46-GX6 .group-17-oX2 .coming-soon-qCp {
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #070211;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-46-GX6 .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-molestie-malesuada-ipsum-sed-sodales-risus-ut-pellentesque-vel-euismod-AF6 {
+  max-width: 39rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgba(7, 2, 17, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-20-2o6 {
+  margin-right: 11.8rem;
+  width: 46.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-20-2o6 .ellipse-1-aJp {
+  width: 36.4844rem;
+  height: 36.4844rem;
+  position: absolute;
+  left: 4.9078rem;
+  top: 4.9078rem;
+  background-size: 150.038% 100%;
+  background-position: -9.1279rem 0;
+  background-image: url('Ellipse\ 1.png');
+  border-radius: 18.2422rem;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-20-2o6 .ellipse-1-aJp .ellipse-1-aJp-bg {
+  width: 36.4844rem;
+  height: 36.4844rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:288d8ac3517dc6676cf84411f416ac8ce35e396b');
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-20-2o6 .ellipse-2-pU4 {
+  width: 46.3rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 1.5rem #ff0000;
+  box-sizing: border-box;
+  border-radius: 23.15rem;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-18-XNU {
+  margin: 11.2rem 0rem 18.1rem 0rem;
+  height: calc(100% - 29.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-18-XNU .item-2024-TG8 {
+  margin: 0rem 0rem 1.5rem 0.033rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-48-Y5J .group-18-XNU .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-9ue {
+  max-width: 27.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgba(7, 2, 17, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .auto-group-figc-1bA .group-96-412 {
+  width: 14rem;
+  height: 14rem;
+  position: absolute;
+  left: 104.4rem;
+  top: 32.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design .design1 .group-82-aEG {
+  margin-bottom: 12rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .group-78-8Fn {
+  margin: 0rem 16.75rem 6.4rem 16.75rem;
+  width: calc(100% - 33.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .group-78-8Fn .group-77-T3A {
+  margin: 0rem 15.45rem 2.8rem 15.35rem;
+  width: calc(100% - 30.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .group-78-8Fn .group-77-T3A .what-is-functional-ada {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #070211;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .group-78-8Fn .group-77-T3A .holidays-sale-50-7Nc {
+  text-align: center;
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 1.2102272246;
+  color: #070211;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .group-78-8Fn .group-77-T3A .holidays-sale-50-7Nc .holidays-sale-50-7Nc-sub-0 {
+  font-size: 7.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ff0000;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.design .design1 .group-82-aEG .group-78-8Fn .group-77-T3A .holidays-sale-50-7Nc .holidays-sale-50-7Nc-sub-1 {
+  font-size: 7.2rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #070211;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.design .design1 .group-82-aEG .group-78-8Fn .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-molestie-malesuada-ipsum-sed-sodales-risus-ut-pellentesque-vel-euismod-eleifend-nunc-purus-quam-id-fermentum-amet-amet-sit-consectetur-BvC {
+  max-width: 98.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.6;
+  color: rgba(7, 2, 17, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ {
+  width: 100%;
+  height: 66.207rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-79-xZa {
+  width: 132rem;
+  height: 66.207rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  
+}
+
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC {
+  width: 58.2438rem;
+  height: 43.3rem;
+  position: absolute;
+  left: 73.7562rem;
+  top: 0;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .rectangle-1-F2t {
+  width: 42.9rem;
+  height: 43.3rem;
+  position: relative;
+  left: 15.3438rem;
+  top: 0;
+  background-size: 151.553% 100%;
+  background-position: -5.998rem 0;
+  background-image: url('Rectangle\ 1.png');
+  border-radius: 1.6rem 1.6rem 0 0;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU {
+  width: 30.5735rem;
+  height: 30.5754rem;
+  position: absolute;
+  left: -0.003rem;
+  top: 7.6956rem;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('Group\ 44.png');
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .vector-RrU {
+  width: 28.7347rem;
+  height: 28.7347rem;
+  position: absolute;
+  left: 0.9204rem;
+  top: 0.9218rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz {
+  width: 15.4499rem;
+  height: 15.246rem;
+  position: absolute;
+  left: 6.3468rem;
+  top: 5.8711rem;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .item-5-Sma {
+  width: 4.8rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.3334rem;
+  font-size: 7.3015rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .item-0-ij6 {
+  width: 11.3rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 3.8074rem;
+  top: 0;
+  font-size: 7.3015rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .dis-ESY {
+  width: 4.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.8063rem;
+  top: 12.246rem;
+  font-size: 2.4338rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .c-ju6 {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 8.1273rem;
+  top: 11.2813rem;
+  font-size: 2.4338rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .oun-FsS {
+  width: 5.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.4962rem;
+  top: 8.3264rem;
+  font-size: 2.4338rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-82-aEG .auto-group-whau-dGQ .group-83-WLC .objects-hvU .group-97-ZBz .t-aep {
+  width: 1.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 14.0499rem;
+  top: 7.4231rem;
+  font-size: 2.4338rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Raleway Black, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.design .design1 .group-81-UEQ {
+  margin-bottom: 12rem;
+  width: 100%;
+  height: 116.3rem;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.6rem;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-utec-BPi {
+  box-sizing: border-box;
+  padding-bottom: 4.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-utec-BPi .the-best-gifts-KVv {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-utec-BPi .our-awesome-portfolio-eHJ {
+  margin-bottom: 2.1rem;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #070211;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-utec-BPi .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-molestie-malesuada-ipsum-sed-sodales-risus-ut-pellentesque-vel-euismod-yKa {
+  max-width: 87.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgba(7, 2, 17, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-3qmi-r8U {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-3qmi-r8U .rectangle-3-nXv {
+  width: 42.4rem;
+  height: 45rem;
+  position: relative;
+  background-size: 100% 142.115%;
+  background-position: 0 -3.5755rem;
+  background-image: url('Rectangle\ 3.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-3qmi-r8U .rectangle-4-HUg {
+  width: 42.4rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-3qmi-r8U .rectangle-5-DNL {
+  width: 42.4rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-hjoz-kt4 {
+  width: 100%;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-hjoz-kt4 .rectangle-6-WcL {
+  width: 42.4rem;
+  height: 45rem;
+  position: relative;
+  background-size: 156.077% 100%;
+  background-position: -19.5366rem 0;
+  background-image: url('Rectangle\ 6.png');
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-hjoz-kt4 .rectangle-7-Qxc {
+  width: 42.4rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-81-UEQ .group-80-2Wp .auto-group-hjoz-kt4 .rectangle-8-Msr {
+  width: 42.4rem;
+  height: 45rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ {
+  box-sizing: border-box;
+  padding: 8rem 22.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 0, 0, 0.0500000007);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-62-cHz {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-62-cHz .group-61-YSY {
+  margin-bottom: 4rem;
+  width: 15rem;
+  height: 15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-62-cHz .group-60-5xG {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-62-cHz .group-60-5xG .subscribe-newsletter-eVa {
+  margin-bottom: 2.1rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.2575;
+  text-transform: capitalize;
+  color: #070211;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-62-cHz .group-60-5xG .dolor-sit-amet-consectetur-consequat-eget-consectetur-maecenas-sed-molestie-malesuada-ipsum-sed-sodales-risus-ut-pellentesque-vel-euismod-yGx {
+  max-width: 87.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgba(7, 2, 17, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-64-FEU {
+  margin: 0 11.2rem;
+  box-sizing: border-box;
+  padding-left: 3rem;
+  width: calc(100% - 22.4rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-64-FEU .usergmailcom-ZFA {
+  margin-right: 26.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(7, 2, 17, 0.3000000119);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .design1 .group-65-sbJ .group-64-FEU .group-63-SZr {
+  width: 21rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff0000;
+  border-radius: 0 5rem 5rem 0;
+  flex-shrink: 0;
+}
+.design .group-59-zDz {
+  box-sizing: border-box;
+  padding: 12rem 14rem 11.9rem 14rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #070211;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz {
+  margin: 0rem 13.5rem 5rem 0rem;
+  width: calc(100% - 13.5rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .big-building-roosevelt-street-beach-gardens-florida-33410-ox8 {
+  margin-right: 55.9rem;
+  max-width: 37.5rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU {
+  width: 25.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-40-ehr {
+  margin-right: 1.6rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-40-ehr .frame-zmi {
+  margin-right: 1.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-40-ehr .item-00-123-584-124-87E {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-41-FBr {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-41-FBr .frame-c2Q {
+  margin-right: 1.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-43-HTz .group-42-uEU .group-41-FBr .wwwwebsitecom-9Y8 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.6666666667;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .line-1-g2G {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.150000006);
+  flex-shrink: 0;
+}
+.design .group-59-zDz .group-39-D2C {
+  margin: 0rem 0rem 4.8rem 0.8rem;
+  width: 32.8rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  
+}
+
+
+.design .group-59-zDz .line-2-wD6 {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(255, 255, 255, 0.150000006);
+  flex-shrink: 0;
+}
+.design .group-59-zDz .auto-group-p5nc-5aC {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .auto-group-p5nc-5aC .all-rights-reserved-Ehz {
+  margin-right: 88rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design .group-59-zDz .auto-group-p5nc-5aC .unsubscribe-Abe {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
